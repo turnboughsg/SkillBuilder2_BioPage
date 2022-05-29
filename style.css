@@ -255,7 +255,7 @@ hr {
 .gradient_background {
 	background: rgb(147, 174, 255);
 	background: linear-gradient(
-		45deg,
+		90deg,
 		rgba(147, 174, 255, 1) 0%,
 		rgba(181, 206, 249, 1) 18%,
 		rgba(187, 224, 255, 1) 28%,
